@@ -1,0 +1,7 @@
+Model,Accuracy,AUC,Silhouette,ARI,Type
+KMeans,,,0.1246,,Gözetimsiz
+GMM,,,0.1265,,Gözetimsiz
+DBSCAN,,,0.1387,,Gözetimsiz
+Logistic Regression,0.7736,0.8552,,,Gözetimli
+Random Forest,1.0,1.0,,,Gözetimli
+KNN,0.9999,1.0,,,Gözetimli
